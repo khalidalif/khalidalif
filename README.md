@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @khalidalif aka Khalid Kabir Alif
+- 👀 I’m interested in machine learning.
+- 🌱 I’m currently learning ML
